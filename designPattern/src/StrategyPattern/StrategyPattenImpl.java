@@ -1,4 +1,4 @@
-package designPattern;
+package StrategyPattern;
 
 public class StrategyPattenImpl implements StrategyPatternInterface {
 

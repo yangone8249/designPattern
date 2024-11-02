@@ -1,4 +1,4 @@
-package designPattern;
+package StrategyPattern;
 
 public class deligate {
 	public void funcAA() {
